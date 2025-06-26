@@ -1,0 +1,1 @@
+@keyframes fadeIn{0%{opacity:0;transform:translateY(30px)}to{opacity:1;transform:translateY(0)}}@keyframes gradientMove{0%{background-position:0% 50%}50%{background-position:100% 50%}to{background-position:0% 50%}}input:focus,textarea:focus{border-color:#fff;box-shadow:0 0 0 3px #fff3}
